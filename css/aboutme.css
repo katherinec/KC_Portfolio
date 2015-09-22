@@ -1,0 +1,98 @@
+
+h1{
+    font-family: 'Tulpen One', helvetica;
+    font-size: 148px !important;
+    color: #DE1111 !important;
+}
+
+h2{
+    font-family: 'Tulpen One', helvetica;
+    font-size: 50px !important;
+    padding-left: 39px;
+}
+
+h2 .paragraph{
+    padding-left: 30px;
+}
+
+
+.testingcenter{
+    margin: 0 auto;
+}
+
+p{
+    margin: 0 40px;
+    font-family: 'Abel', sans-serif;
+}
+
+
+a {
+
+	margin: 0px 20px;
+	 text-transform: uppercase;
+
+/*	margin: zero;
+	border: 10px;
+	padding: 25px 50px;*/
+	color: black;
+    border-radius: 4px;
+    border:0;
+   
+    font-weight: 700;
+    text-transform: uppercase;
+    line-height: 40px;
+    font-size: 12px;
+    letter-spacing: .2em;
+    border-top: 2px solid transparent;
+    border-bottom: 2px solid transparent;
+
+    outline: 1px solid transparent;
+
+    -webkit-transition: all .5s ease .25s;
+    transition: all .5s ease .25s;
+
+}
+a:hover{
+	background-color: black !important;
+	color: white;
+    text-decoration: none;}
+
+.bodystuff a{
+    border: 7px solid transparent;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+.bodystuff p{
+    font-size: 15px;
+    line-height: 22px;
+}
+
+.bodystuff{
+    padding-bottom: 50px;
+}
+
+.jumbotron{
+    background-color: white;
+    text-align: center;
+}
+
+.jumbotron p{
+    font-size: 24px;
+}
+
+.bodystuff ul {
+    font-family: 'Abel', sans-serif;
+    font-size: 20px;
+    line-height: 28px;
+}
+
+.footer{ 
+   
+    padding-bottom: 29px;
+    text-align: center;
+    font-size: 15px;
+    color: #D5D5D5;
+    font-family: 'Abel', sans-serif;
+}
+
+

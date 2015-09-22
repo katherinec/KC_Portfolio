@@ -1,0 +1,86 @@
+.full_sizing{
+	width: 100%;
+}
+
+a{
+
+	margin: 20px 20px;
+	 text-transform: uppercase;
+
+/*	margin: zero;
+	border: 10px;
+	padding: 25px 50px;*/
+	color: black;
+    border-radius: 4px;
+    border:0;
+   
+    font-weight: 700;
+    text-transform: uppercase;
+    line-height: 40px;
+    font-size: 12px;
+    letter-spacing: .2em;
+    border-top: 2px solid transparent;
+    border-bottom: 2px solid transparent;
+
+    outline: 1px solid transparent;
+
+    -webkit-transition: all .5s ease .25s;
+    transition: all .5s ease .25s;
+
+}
+a:hover{
+	background-color: black !important;
+	color: white;
+}
+
+.page-header{
+	font-family: 'Tulpen One', helvetica;
+	font-size: 150px;
+	text-align: center;
+	padding-bottom: 20px;
+	color: #DE1111 !important;
+}
+
+h4{
+	font-family: 'Tulpen One', helvetica;
+	font-size: 50px;
+}
+
+.modal-body{
+	font-family: 'Abel', sans-serif;
+	font-size: 18px;
+}
+
+
+
+/*object{
+	width: 300%;
+	height: 300%;
+	
+}*/
+
+.pdf-test {
+	height: 500px;
+	width: 100%;
+}
+#testModal {
+	height: 500px !important;
+	width: auto;
+}
+
+.modal.in .modal-dialog {
+  transform: none;
+}
+
+button {
+	background-color: white !important;
+	border-color: white !important;
+}
+button:hover{
+	opacity: .5 !important;
+	-webkit-transition: all .5s ease-in-out;
+  -moz-transition: all .5s ease-in-out;
+  -o-transition: all .5s ease-in-out;
+  transition: all .5s ease-in-out;
+}
+
