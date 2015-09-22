@@ -1,0 +1,80 @@
+.headerpic{
+	width: 106%;
+	margin: 0;
+	padding: 0;
+}
+
+.jumbotron{
+	background-color: white;
+	text-align: center;
+	font-family: 
+}
+
+.jumbotron p{
+	font-family: 'Abel', sans-serif;
+	font-size: 47px;
+	padding-bottom: 0;
+	margin-bottom: 0;
+}
+
+div .footer{ 
+	padding-top: 0px;
+	padding-bottom: 9px;
+	text-align: center;
+	font-size: 15px;
+	color: #D5D5D5;
+	font-family: 'Abel', sans-serif;
+}
+
+
+h1{
+	font-family: 'Tulpen One', helvetica;
+	font-size: 150px !important;
+	color: #DE1111 !important;
+}
+
+@media (max-width: 700px) {
+	h1{font-size: 100px !important;}
+	.jumbotron p{font-size: 30px;}
+}
+
+@media (max-width: 450px) {
+	h1{font-size: 50px !important;}
+	.jumbotron p{font-size: 16px;}
+	div .footer{font-size: 10px;}
+	
+}
+
+/*.nav-justified .mybutton li */a{
+
+	margin: 0px 20px;
+	 text-transform: uppercase;
+
+/*	margin: zero;
+	border: 10px;
+	padding: 25px 50px;*/
+	color: black;
+    border-radius: 4px;
+    border:0;
+   
+    font-weight: 700;
+    text-transform: uppercase;
+    line-height: 40px;
+    font-size: 12px;
+    letter-spacing: .2em;
+    border-top: 2px solid transparent;
+    border-bottom: 2px solid transparent;
+
+    outline: 1px solid transparent;
+
+    -webkit-transition: all .5s ease .25s;
+    transition: all .5s ease .25s;
+
+}
+a:hover{
+	background-color: black !important;
+	color: white;
+}
+
+
+
